@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning AWS with an ambition to becoming a cloud developer.
 - 👯 I’m looking to working in a company where I can grow my skills and contribute to the company.
 - 📫 You can reach me at bhandariprag9@gmail.com and https://www.linkedin.com/in/pragati-bhandari-5ba976bb/
-- ⚡ Fun fact: I can solve 3*3 Rubik's Cube.
+- ⚡ I can solve 3*3 Rubik's Cube.
 - I love playing chess in my free time.
