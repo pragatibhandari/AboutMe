@@ -2,7 +2,7 @@
 ### An energetic Front-End Developer who is passionate about building functional, attractive, and responsive websites and web-application. With clear understandings of modern technologies, best coding practices, and experience in writing clear, readable, and reusable code, I am looking to join a team of like-minded developers.
 
 
-####Know more about me:
+##### Know more about me:
 
 - 🔭 I’m currently Studying B.Eng Information Technology at Metropolia UAS.
 - 🌱 I’m currently learning AWS with an ambition to becoming a cloud developer.
