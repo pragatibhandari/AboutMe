@@ -10,3 +10,4 @@
 - 📫 You can reach me at bhandariprag9@gmail.com and https://www.linkedin.com/in/pragati-bhandari-5ba976bb/
 - ⚡ I can solve 3*3 Rubik's Cube.
 - I love playing chess in my free time.
+- Please take a look at my portfolio website. https://pragatibhandari.github.io/Portfolio/
