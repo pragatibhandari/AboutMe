@@ -1,5 +1,5 @@
 ## Hi there!👋 I'm Pragati Bhandari.
-### An energetic Front-End Developer who is passionate about building functional, attractive, and responsive websites and web-application. With clear understandings of modern technologies, best coding practices, and experience in writing clear, readable, and reusable code, I am looking to join a team of like-minded developers.
+### An energetic Front-End Developer who is passionate about building functional, attractive, and responsive websites and web-application. With clear understanding of modern technologies, best coding practices, and experience in writing clear, readable, and reusable code, I am looking to join a team of like-minded developers.
 
 
 ##### Know more about me:
