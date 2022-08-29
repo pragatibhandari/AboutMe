@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pragati Bhandari</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
+<h6> an ambitious Full-Stack Developer with a passion for UI/UX design. As a recent graduate with Bachelor's degree in Information Technology, I have participated in numerous development projects while collaborating with other developers. In addition, I dedicated my educational thesis to cloud computing. For the time being, I am more proficient in front-end development with skills in accessibility, react.js, Javascript, Material-UI, SCSS, etc. while I am also good at Express.js, Node.js, Mongo DB, and MySQL. In my work, I strive to fuse stunning design and functional code. </h6>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragatibhandari&label=Profile%20views&color=0e75b6&style=flat" alt="pragatibhandari" /> </p>
-
-- 🔭 I’m currently working on **FairEducationFoundation**
 
 - 🌱 I’m currently learning **Full-Stack Web Development and AWS**
 
