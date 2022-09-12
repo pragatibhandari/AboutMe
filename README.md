@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **bhandariprag9@gmail.com**
 
-- ⚡ Fun fact **I can solve 3 * 3 Rubik's Cube**
+- ⚡ Fun fact about me: **I can solve 3 * 3 Rubik's Cube**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
