@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pragatibhandari.github.io/Portfolio/](https://pragatibhandari.github.io/Portfolio/)
 
-- 📫 Reach me at **bhandariprag9@gmail.com**
+- 📫 Reach me at **bhandariprag9@gmail.com** and **https://www.linkedin.com/in/pragatibhandari/**
 
 - ⚡ Fun fact about me: **I can solve 3 * 3 Rubik's Cube**
 
