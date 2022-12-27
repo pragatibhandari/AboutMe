@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pragati Bhandari</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
-<h6> As a Information Technology graduate, I have participated in numerous development projects while collaborating with other developers. For the time being, I am proficient in front-end development with skills in accessibility, react.js, Javascript, Material-UI, SCSS, etc while I am learning Express.js, Node.js, Mongo DB, and MySQL. In my work, I strive to fuse stunning design and functional code. </h6>
+<h3 align="center">A passionate Software Developer</h3>
+<h6> As an Information Technology graduate, I have participated in numerous development projects while collaborating with other developers. For the time being, I am proficient in front-end development with skills in accessibility, react.js, Javascript, Material-UI, SCSS, etc while I am equally familiar with Express.js, Node.js, Mongo DB, and MySQL. In my work, I strive to fuse stunning design and functional code. Recently, I built a serverless application using AWS DynamoDb for data storage, AWS Lambda Functions to interact with DynamoDb, REST API for state transfer and AWS amplify to deploy the application.
+</h6>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragatibhandari&label=Profile%20views&color=0e75b6&style=flat" alt="pragatibhandari" /> </p>
