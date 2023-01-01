@@ -2,17 +2,16 @@
 <h3 align="center">A passionate Software Developer</h3>
 <h6> As an Information Technology graduate, I have participated in numerous development projects while collaborating with other developers. For the time being, I am proficient in front-end development with skills in accessibility, react.js, Javascript, Material-UI, SCSS, etc while I am equally familiar with Express.js, Node.js, Mongo DB, and MySQL. In my work, I strive to fuse stunning design and functional code. Recently, I built a serverless application using AWS DynamoDB for data storage, AWS Lambda Functions to interact with DynamoDB, REST API for state transfer and AWS amplify to deploy the application.
 </h6>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragatibhandari&label=Profile%20views&color=0e75b6&style=flat" alt="pragatibhandari" /> </p>
 
 - 🌱 I’m currently learning **Full-Stack Web Development and AWS**
 
-- 👨‍💻 All of my projects are available at [https://pragatibhandari.github.io/Portfolio/](https://pragatibhandari.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://pragatibhandari.github.io/Portfolio/]([https://pragatibhandari.github.io/Portfolio/](https://main--sparkling-fenglisu-c89910.netlify.app/))
 
 - 📫 Reach me at **bhandariprag9@gmail.com** and **https://www.linkedin.com/in/pragatibhandari/**
 
 - ⚡ Fun fact about me: **I can solve 3 * 3 Rubik's Cube**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
