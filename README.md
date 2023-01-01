@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pragati Bhandari</h1>
 <h3 align="center">A passionate Software Developer</h3>
-<h6> As an Information Technology graduate, I have participated in numerous development projects while collaborating with other developers. For the time being, I am proficient in front-end development with skills in accessibility, react.js, Javascript, Material-UI, SCSS, etc while I am equally familiar with Express.js, Node.js, Mongo DB, and MySQL. In my work, I strive to fuse stunning design and functional code. Recently, I built a serverless application using AWS DynamoDB for data storage, AWS Lambda Functions to interact with DynamoDB, REST API for state transfer and AWS amplify to deploy the application.
+<h6> During my Information Technology studies at Metropolia, I participated in numerous development projects while collaborating with other developers. For the time being, I am proficient in front-end development with skills in accessibility, react.js, Javascript, Material-UI, SCSS, etc while I am equally familiar with Express.js, Node.js, Mongo DB, and PostgreSQL. In my work, I strive to fuse stunning design and functional code. Recently, I built a serverless application using AWS DynamoDB for data storage, AWS Lambda Functions to interact with DynamoDB, REST API for state transfer and AWS amplify to deploy the application.
 </h6>
 
-- 👀 I am interested in Software Development roles
+- 👀 I am interested in entry level Software Development roles
 - 🌱 I’m currently learning **AWS**
 - 👨‍💻 Here is my personal portfolio website [Portfolio Website](https://main--sparkling-fenglisu-c89910.netlify.app/)
 - 👨‍💻 You can find me on linkedin **https://www.linkedin.com/in/pragatibhandari/**
