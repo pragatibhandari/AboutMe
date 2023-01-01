@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development and AWS**
 
-- 👨‍💻 My personal portfolio website [My personal portfolio website](https://pragatibhandari.github.io/Portfolio/](https://main--sparkling-fenglisu-c89910.netlify.app/](https://main--sparkling-fenglisu-c89910.netlify.app/)
+- 👨‍💻 My personal portfolio website [My personal portfolio website](https://main--sparkling-fenglisu-c89910.netlify.app/)
 
 - 📫 Reach me at **bhandariprag9@gmail.com** and **https://www.linkedin.com/in/pragatibhandari/**
 
