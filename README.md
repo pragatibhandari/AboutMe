@@ -4,17 +4,12 @@
 </h6>
 
 - 👀 I am interested in Software Development roles
- 
 - 🌱 I’m currently learning **AWS**
-
 - 👨‍💻 Here is my personal portfolio website [Portfolio Website](https://main--sparkling-fenglisu-c89910.netlify.app/)
-
+- 👨‍💻 You can find me on linkedin **https://www.linkedin.com/in/pragatibhandari/**
 - 📫 You can always reach me at **bhandariprag9@gmail.com**
-- ![image](https://user-images.githubusercontent.com/26060654/210162023-7f441614-da8d-42ac-aec4-56445f6f1749.png)
-You can find me on linkedin **https://www.linkedin.com/in/pragatibhandari/**
-
 - ⚡ Fun fact about me: **I can solve 3 * 3 Rubik's Cube**
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
