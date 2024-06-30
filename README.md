@@ -4,7 +4,7 @@
 </h6>
 
 - 👀 I am interested in Software Development roles
-- 🌱 I’m AWS certified Cloud Practioner
+- 🌱 I’m AWS certified Cloud Practitioner
 - 👨‍💻 Here is my personal portfolio website [Portfolio Website](https://main--sparkling-fenglisu-c89910.netlify.app/)
 - 👨‍💻 You can find me on linkedin **https://www.linkedin.com/in/pragatibhandari/**
 - 📫 You can always reach me at **bhandariprag9@gmail.com**
